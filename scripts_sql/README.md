@@ -1,4 +1,3 @@
-
 Create Database Teste;
 
 USE Teste
