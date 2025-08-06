@@ -18,6 +18,7 @@ Nesta primeira etapa, utilizei **Inteligência Artificial** para construir a ide
 Essas informações serviram como base para a estrutura de dados nas fases seguintes.
 
 [Projeto - Criação de Empresa.docx](https://github.com/user-attachments/files/21608508/Projeto.-.Criacao.de.Empresa.docx)
+
 [NutriBaby_ Alimentação Saudável e Prática para Crianças e Bebês.pptx](https://github.com/user-attachments/files/21608519/NutriBaby_.Alimentacao.Saudavel.e.Pratica.para.Criancas.e.Bebes.pptx)
 
 ---
