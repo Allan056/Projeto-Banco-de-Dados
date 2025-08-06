@@ -32,6 +32,7 @@ Criação do **Diagrama Entidade-Relacionamento (DER)** com foco em:
 - Entidades e atributos principais
 - Relacionamentos entre entidades
 - Aplicação das regras de **normalização até a 3ª Forma Normal (3FN)**
+<img width="2977" height="2562" alt="NutriBaby - Conceitual -" src="https://github.com/user-attachments/assets/70604cc2-bc39-4af7-a70f-6b7084d6e285" />
 
 
 
@@ -44,6 +45,9 @@ Conversão do modelo conceitual para o **modelo lógico**, definindo:
 - Tipos de dados apropriados
 - Chaves primárias e estrangeiras
 - Restrições de integridade
+<img width="2873" height="1414" alt="02-NutriBaby - M_logico_r" src="https://github.com/user-attachments/assets/1db92925-a56b-4816-b438-9fab3917b72f" />
+
+
 
 #### ✅ Parte 3: Implementação no SQL Server
 
@@ -70,6 +74,13 @@ Foram desenvolvidas **consultas SQL** envolvendo múltiplas tabelas com **JOINs*
 - **Modelagem relacional (DER, Modelo Lógico)**
 - **Ferramentas de diagramação (ex: Draw.io, DBDesigner)**
 - **Linguagem SQL (DDL & DML)**
+[Uploading ATIVADEFINAL.sql…]()
+
+## 🗄️ Script do Banco de Dados
+
+Este repositório inclui o script completo de criação, inserção e consulta do banco de dados NutriBaby.
+
+📄 [`script_banco_nutribaby.sql`](scripts_sql/script_banco_nutribaby.sql)
 
 
 ✅ Aprendizados
