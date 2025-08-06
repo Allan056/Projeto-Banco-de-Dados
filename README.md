@@ -1,4 +1,4 @@
-# 📊 Projeto de Banco de Dados
+[Projeto - Criação de Empresa.docx](https://github.com/user-attachments/files/21608506/Projeto.-.Criacao.de.Empresa.docx)# 📊 Projeto de Banco de Dados
 Este projeto tem como objetivo o desenvolvimento de um banco de dados relacional completo, passando por todas as etapas essenciais: da concepção do negócio à implementação prática em SQL Server. A proposta foi desenvolvida com base em uma empresa fictícia criada especialmente para esse fim, com foco em aplicar técnicas modernas de modelagem e consulta de dados.
 
 ---
@@ -17,6 +17,9 @@ Nesta primeira etapa, utilizei **Inteligência Artificial** para construir a ide
 
 Essas informações serviram como base para a estrutura de dados nas fases seguintes.
 
+[Projeto - Criação de Empresa.docx](https://github.com/user-attachments/files/21608508/Projeto.-.Criacao.de.Empresa.docx)
+[NutriBaby_ Alimentação Saudável e Prática para Crianças e Bebês.pptx](https://github.com/user-attachments/files/21608519/NutriBaby_.Alimentacao.Saudavel.e.Pratica.para.Criancas.e.Bebes.pptx)
+
 ---
 
 ### 🔹 Fase 2 – Modelagem de Dados
@@ -28,6 +31,9 @@ Criação do **Diagrama Entidade-Relacionamento (DER)** com foco em:
 - Entidades e atributos principais
 - Relacionamentos entre entidades
 - Aplicação das regras de **normalização até a 3ª Forma Normal (3FN)**
+
+
+
 
 #### ✅ Parte 2: Modelagem Lógica
 
@@ -64,4 +70,19 @@ Foram desenvolvidas **consultas SQL** envolvendo múltiplas tabelas com **JOINs*
 - **Ferramentas de diagramação (ex: Draw.io, DBDesigner)**
 - **Linguagem SQL (DDL & DML)**
 
+
+✅ Aprendizados
+Este projeto consolidou conhecimentos sobre:
+
+Modelagem de dados desde o nível conceitual até a implementação
+
+Normalização de dados para garantir integridade
+
+Criação de relacionamentos sólidos entre entidades
+
+Escrita de consultas SQL eficientes para resolver problemas reais
+
+📌 Status do Projeto
+✅ Concluído
+📌 Aberto para melhorias futuras e integração com aplicações front-end
 
