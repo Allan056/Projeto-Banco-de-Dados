@@ -74,13 +74,7 @@ Foram desenvolvidas **consultas SQL** envolvendo múltiplas tabelas com **JOINs*
 - **Modelagem relacional (DER, Modelo Lógico)**
 - **Ferramentas de diagramação (ex: Draw.io, DBDesigner)**
 - **Linguagem SQL (DDL & DML)**
-[Uploading ATIVADEFINAL.sql…]()
 
-## 🗄️ Script do Banco de Dados
-
-Este repositório inclui o script completo de criação, inserção e consulta do banco de dados NutriBaby.
-
-📄 [`script_banco_nutribaby.sql`](scripts_sql/script_banco_nutribaby.sql)
 
 
 ✅ Aprendizados
